@@ -1,0 +1,31 @@
+body{ 
+    background-size: 100%;
+    background-color: rgb(156, 41, 41);
+    background-image: linear-gradient(rgb(204, 104, 179), rgb(205, 101, 236), rgb(252, 9, 240));
+    background-image: url(fondo2.avif);
+}
+
+h1{
+    color:rgb(112, 16, 24);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    color: rgb(180, 9, 35);
+}
+p{
+    color: #f0eeee;
+    font-style: italic;
+    font-size: 18px;
+}
+div{
+    background-color: rgb(231, 131, 73);
+    border: 5px solid rgb(184, 36, 36);
+    padding: 10%;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top: 20%;
+}
+P{
+    color: rgb(7, 6, 6);
+    background-color: rgb(201, 111, 51);
+}
